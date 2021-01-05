@@ -27,7 +27,7 @@ body{
 #line{
 	
 	height: 1vh;
-	width: 90vw;
+	width: 97%;
 	margin-right: auto;
 	margin-left: auto;
 	background-color: black;
@@ -59,6 +59,9 @@ body{
     font-family: 'Montserrat', sans-serif;
     margin-top: 10px;
 }
+/* nav{
+  width: 100%;
+} */
 
 #ez-toc-container.ez-toc-light-blue {
     background: #EDF6FF;
